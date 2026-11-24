@@ -1,0 +1,52 @@
+{
+  "lang": "en",
+  "name": "McNally Joinery",
+  "initial": "M",
+  "trade": "joiner",
+  "tradeLabel": "Bespoke joinery · Lusk, Co. Dublin",
+  "theme": { "mode": "light", "accent": "#f29525", "display": "serif", "hero": "type" },
+  "hero": {
+    "eyebrow": "Irish family owned · Lusk, North County Dublin",
+    "title": "Wood that works,",
+    "titleEm": "beautifully.",
+    "lead": "Staircases, traditional sliding sash windows, and pivot, sliding and bifold doors, drawn to your specification and made at our factory in North Dublin."
+  },
+  "rating": { "score": "4.8", "count": 69, "source": "Google" },
+  "intro": {
+    "title": "Created by nature, crafted by hand",
+    "paragraphs": [
+      "Joe and Breda set up McNally Joinery in an old hay barn in 1978. Over the last 40 years the workshops have grown, and so has the range: spectacular staircases, welcoming front doors, floating pivot doors, traditional sliding sash and bay windows.",
+      "We take pride in our craftsmanship and offer you a complete joinery package. All our products are drawn to client specification and manufactured at our factory in North Dublin, giving you complete control over design, dimensions and lead times.",
+      "Working with architects, builders and home owners, we bring your ideas for quality joinery to life."
+    ],
+    "facts": ["Fully CE certified", "A and B energy rated windows, certified by the BFRC", "Irish Joinery Awards", "Plan Expo Award"]
+  },
+  "services": {
+    "title": "A complete joinery package",
+    "lead": "All our products are drawn to client specification and made at our factory in North Dublin.",
+    "items": [
+      { "title": "Full houses of joinery", "text": "Front doors, staircases, internal doors, windows, architraves and skirting for a whole home, made as one coherent package." },
+      { "title": "Staircases", "text": "Traditional, contemporary, curved, spiral or concrete clad: every staircase is tailored to the client's requirements, from the wood and finish to the spindles and handrails." },
+      { "title": "Sliding sash windows", "text": "Traditional sliding sash and bay windows. Our A and B energy rated windows are certified by the BFRC." },
+      { "title": "Pivot, sliding and bifold doors", "text": "Pivot, patio, bi-fold and sliding doors, each one tailored to your specific needs and preferences." },
+      { "title": "Front doors and gates", "text": "Colourful, welcoming front doors, external doors and gates." },
+      { "title": "Panelling, architraves and skirting", "text": "The finishing touches for a home or office. We can match existing architrave and skirting profiles for continuity throughout a project." }
+    ]
+  },
+  "steps": {
+    "title": "From your idea to your home",
+    "items": [
+      { "title": "Talk to us", "text": "Call, email or visit our office and showroom in Lusk to tell us about your project. We're listening." },
+      { "title": "Drawn to your specification", "text": "Every product is drawn to your specification, so you keep complete control over design and dimensions." },
+      { "title": "Made in North Dublin", "text": "Your joinery is manufactured at our factory in North Dublin, with control over lead times." }
+    ]
+  },
+  "contact": {
+    "title": "Let's talk about your project",
+    "lead": "Call the office, send us an email, or visit the showroom in Lusk.",
+    "phones": [ { "label": "Office", "display": "+353 1 843 3022", "tel": "+35318433022" } ],
+    "email": "info@mcnallyjoinery.ie",
+    "address": ["McNally Joinery Limited", "Walshestown, Lusk", "Co. Dublin"],
+    "hours": ["Office and showroom:", "Monday to Thursday, 8:30am to 5:30pm"]
+  }
+}
